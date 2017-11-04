@@ -2,7 +2,7 @@
 
 Ce jeu a la particularité d'avoir été intégralement conçu pour le système de divertissement électrique "Kitco", plus connue sous le nom de "console à dix euros qu'il faut souder soi-même conçue par François Jacob, alias Papamaker (www.kitco.fr). 
 
-<img src="kitco-simon.png" />
+<img src="kitco-Simon.png" />
 Ce jeux est une adaptation du jeux "SIMON" de mon enfance.
 
 ## Règles du jeu
